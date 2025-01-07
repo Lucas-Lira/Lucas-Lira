@@ -5,9 +5,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/lucas-lira-a39239139/)
 
 - 🔭 I’m currently working on [https://wakatime.com](https://wakatime.com)
-- 💬 Ask me about TypeScript, Angular, Java, startups, and bootstrapping
 
 <!--
+
+- 💬 Ask me about TypeScript, Angular, NestJS, Java, Keycloak, Node, Database systems, Software Architecture, startups, and bootstrapping.
+
 **Lucas-Lira/Lucas-Lira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -20,4 +22,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
