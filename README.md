@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+```markdown
+[![wakatime](https://wakatime.com/badge/user/your-username.svg)](https://wakatime.com/@lucaslira07)
+```
+
 <!--
 **Lucas-Lira/Lucas-Lira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
